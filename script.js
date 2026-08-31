@@ -11,7 +11,7 @@ for (let i = 1; i <= 131; i++) {
     let extIndex = 0;
     function tryNextExtension() {
         if (extIndex < extensions.length) {
-            img.src = "images/mm" + nomor + extensions[extIndex];
+            img.src = "images/az" + nomor + extensions[extIndex];
             extIndex++;
         }
     }
