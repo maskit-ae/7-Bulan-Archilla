@@ -1,4 +1,4 @@
-# Wedding Gallery Pro
+# 7-Bulan-Archilla
 
 1. Upload semua foto ke folder images.
 2. Edit gallery.json agar berisi semua nama file foto.
